@@ -1,0 +1,47 @@
+.services{
+    
+    background-color: plum;
+    padding-bottom: 100%;
+    text-align: center;
+    color: whitesmoke;
+
+}
+
+.services > h1{
+    padding-top: 10%;
+    
+}
+.services > p {
+
+    
+    padding-left: 20%;  padding-right: 20%;
+    padding-top: 5%;
+}
+
+
+.welcome{
+    background-color: black;
+    color: white;
+    padding-bottom: 100%;
+    
+}
+
+.welcome > h1 {
+
+    text-align: center;
+
+    padding-top: 20%;
+
+}
+
+.contact{
+    text-align: center;
+    padding-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.NotWork{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
